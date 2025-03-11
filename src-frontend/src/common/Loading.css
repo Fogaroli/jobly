@@ -1,0 +1,11 @@
+.LoadingMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh
+}
+
+.LoadingText {
+    font-size: 48px;
+    color: grey
+}
