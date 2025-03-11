@@ -1,0 +1,7 @@
+.companySummary{
+    cursor: pointer;
+}
+
+.companySummary:hover{
+    color: gray;
+}
